@@ -1,0 +1,17 @@
+outcome_age_bracket,clean_outcome,total_dogs,pct_within_age_group,median_los_days,avg_los_days
+Adult,Transfer Out,595,45.45,8,43.1
+Adult,Return to Owner,569,43.47,3,7.3
+Adult,Non-Live (Euthanasia/Death),136,10.39,12,31.3
+Adult,Other,9,0.69,0,18.4
+Puppy,Transfer Out,926,68.64,5,16.3
+Puppy,Return to Owner,329,24.39,3,4.8
+Puppy,Non-Live (Euthanasia/Death),89,6.6,5,18.4
+Puppy,Other,5,0.37,2,35.4
+Senior,Return to Owner,142,49.82,1,4.7
+Senior,Transfer Out,101,35.44,5,24.1
+Senior,Non-Live (Euthanasia/Death),40,14.04,5,15.6
+Senior,Other,2,0.7,1,1.0
+Unknown,Non-Live (Euthanasia/Death),99,40.74,5,13.2
+Unknown,Return to Owner,67,27.57,1,5.0
+Unknown,Transfer Out,67,27.57,4,6.5
+Unknown,Other,10,4.12,0,17.0

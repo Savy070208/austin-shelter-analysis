@@ -1,0 +1,11 @@
+primary_breed,total_unadopted_dogs,rto_count,transfer_count,non_live_count,avg_los_days,median_los_days
+American Pit Bull Terrier,686,249,317,116,28.5,6
+Labrador Retriever,372,98,244,26,23.1,4
+Chihuahua - Smooth,275,87,154,32,5.8,4
+German Shepherd,224,76,120,26,15.6,4
+French Bulldog,74,20,42,8,4.7,4
+Australian Cattle Dog,74,25,46,2,27.2,5
+Great Pyrenees,73,12,49,12,8.1,4
+American Staffordshire Terrier,70,35,31,4,21.9,6
+Siberian Husky,60,21,30,8,16.0,4
+Shih Tzu,58,10,43,5,6.0,4
